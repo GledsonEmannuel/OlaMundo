@@ -22,3 +22,9 @@
 - [ ] Pagina 1
 - [x] pagina lohja
 - [ ] reunião
+
+Num | Nome | Nota
+---|---|---
+1|gustavo|8
+2|lucas|7
+
